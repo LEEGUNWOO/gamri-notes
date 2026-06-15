@@ -1,6 +1,4 @@
-ㅋㅋㅋ 드디어. CSS 전체에 추가해줄게.
 
-```css
 table {
   font-size: 12px !important;
 }
@@ -66,4 +64,7 @@ body, .markdown-preview-view, .cm-s-obsidian {
   padding-left: 20px !important;
   padding-right: 20px !important;
 }
-```
+th {
+  word-break: keep-all !important;
+  white-space: nowrap !important;
+}

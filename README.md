@@ -1,0 +1,1 @@
+# gamri-notes

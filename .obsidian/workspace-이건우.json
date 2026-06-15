@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "71983856c36fbf35",
+    "type": "split",
+    "children": [
+      {
+        "id": "d077d421f0037c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "accc2feefff36ab5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87e86263a94bdcec",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4fced541887590c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2b8ae201a8ccc8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "d547cd6d0a9e1ab8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "cd877393535128d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 583.5
+  },
+  "right": {
+    "id": "38d135b195e36b63",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ddaa1c7a7106024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ffbd7a8b6a9097",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "시구1-네트워크-포켓노트(Obsidian).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "시구1-네트워크-포켓노트(Obsidian) 의 백링크"
+            }
+          },
+          {
+            "id": "0910faa92c649167",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "시구1-네트워크-포켓노트(Obsidian).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "시구1-네트워크-포켓노트(Obsidian) 의 나가는 링크"
+            }
+          },
+          {
+            "id": "7e1e57402a9443d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "9f968c9d75988839",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "d8c61b9ab2f1b5e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "시구1-네트워크-포켓노트(Obsidian).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "시구1-네트워크-포켓노트(Obsidian) 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "accc2feefff36ab5",
+  "lastOpenFiles": [
+    "암기/보안 암기 정리.md",
+    "TalkFile_시구1-네트워크-통합학습노트-완전판.md.md",
+    "TalkFile_시구1-OSI7계층-데일리암기노트.md.md",
+    "암기/소프트웨어 공학 암기 정리.md",
+    "암기",
+    "시구1-네트워크-포켓노트-v2.md",
+    "암기/감리 암기 정리.md",
+    "무제 1.base",
+    "무제.base",
+    "무제 2.base",
+    "암기/사업관리 암기 정리.md",
+    "UML_14_Diagrams_Obsidian_pretty.md",
+    "UML_14_Diagrams_Obsidian_v8_textbook_like.md",
+    "UML_Line_Meanings_By_Diagram_with_Diagrams.md",
+    "UML_Line_Meanings_By_Diagram.md",
+    "UML_14_Diagrams_Obsidian_v7_no_scroll.md",
+    "UML_Line_Meanings_By_Diagram_with_Diagrams_v2_pretty.md",
+    "UML_14_Diagrams_Obsidian_clean.md",
+    "network_full_summary.md",
+    "무제 1.md",
+    "network_summary.md",
+    "UML_14_Diagrams_Obsidian.md",
+    "UML_14_Diagrams_Obsidian_v3.md",
+    "UML_14_Diagrams_Obsidian_v2.md",
+    "UML_14_Diagrams_Obsidian_v6.md",
+    "UML_14_Diagrams_Obsidian_v5.md",
+    "UML_14_Diagrams_Obsidian_v4.md",
+    "시구/시구1-네트워크-통합학습노트-완전판.md",
+    "시구/시구1-OSI7계층-데일리암기노트.md",
+    "시구/20-L2-데이터링크.md",
+    "무제 6.base",
+    "무제 7.base",
+    "무제 5.base",
+    "무제 4.base",
+    "무제 3.base",
+    "정보시스템 감리사 필기 시구 네트워크 통합 정리본.pdf",
+    "무제 1.canvas",
+    "무제.canvas"
+  ]
+}

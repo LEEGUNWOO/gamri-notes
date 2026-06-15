@@ -1,0 +1,12 @@
+/* Obsidian: make markdown tables scroll instead of breaking mobile layout */
+.markdown-preview-view table,
+.markdown-source-view table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+/* Slightly tighter line-height for mobile reading */
+.markdown-preview-view {
+  line-height: 1.55;
+}

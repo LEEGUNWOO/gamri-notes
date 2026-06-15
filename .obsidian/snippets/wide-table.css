@@ -1,0 +1,69 @@
+ㅋㅋㅋ 드디어. CSS 전체에 추가해줄게.
+
+```css
+table {
+  font-size: 12px !important;
+}
+th, td {
+  font-size: 12px !important;
+  padding: 2px 2px !important;
+  line-height: 1.6 !important;
+  vertical-align: top !important;
+  word-break: keep-all !important;
+}
+.markdown-preview-view td, .markdown-preview-view th {
+  font-size: 12px !important;
+  padding: 2px 8px !important;
+  line-height: 1.7 !important;
+  vertical-align: top !important;
+  word-break: keep-all !important;
+}
+th:first-child, td:first-child {
+  width: 5% !important;
+}
+.markdown-preview-view h1 {
+  margin-bottom: 4px !important;
+}
+.cm-s-obsidian span.cm-header-1 {
+  margin-bottom: 3px !important;
+}
+body, .markdown-preview-view, .cm-s-obsidian {
+  font-size: 12px !important;
+  line-height: 1.6 !important;
+}
+.markdown-preview-view p,
+.markdown-preview-view li,
+.markdown-preview-view span,
+.cm-s-obsidian .cm-line {
+  font-size: 12px !important;
+  line-height: 1.6 !important;
+}
+.markdown-preview-view h1 { font-size: 30px !important; line-height: 1.6 !important; }
+.markdown-preview-view h2 { font-size: 25px !important; line-height: 1.6 !important; }
+.markdown-preview-view h3 { font-size: 20px !important; line-height: 1.6 !important; }
+.markdown-preview-view h4 { font-size: 15px !important; line-height: 1.6 !important; }
+.cm-s-obsidian .cm-header-1 { font-size: 30px !important; line-height: 1.6 !important; }
+.cm-s-obsidian .cm-header-2 { font-size: 25px !important; line-height: 1.6 !important; }
+.cm-s-obsidian .cm-header-3 { font-size: 20px !important; line-height: 1.6 !important; }
+.cm-s-obsidian .cm-header-4 { font-size: 15px !important; line-height: 1.6 !important; }
+.markdown-preview-view td:first-child,
+.cm-content td:first-child {
+  width: 5% !important;
+  white-space: nowrap !important;
+}
+.el-table {
+  width: fit-content !important;
+}
+.workspace-leaf-content .view-content .markdown-preview-view {
+  max-width: 1220px !important;
+  margin: 0 auto !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+.cm-sizer {
+  max-width: 1220px !important;
+  margin: 0 auto !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+```

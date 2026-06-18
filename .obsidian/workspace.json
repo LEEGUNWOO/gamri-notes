@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2027 대비 정리/보안/무제.md",
+                "file": "2027 대비 정리/보안/프롬프트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "프롬프트"
             }
           },
           {
@@ -111,16 +111,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인덱스 암기노트/감리사_23-24_정리노트_통합본_원문보존.md",
+                "file": "01.최종정리/마지막 압축 노트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "감리사_23-24_정리노트_통합본_원문보존"
+              "title": "마지막 압축 노트"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setuid",
+                "query": "tag:#⭐",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -285,15 +284,20 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "a6749ed822a94c86",
+  "active": "49f21046ec746d47",
   "lastOpenFiles": [
+    "2027 대비 정리/보안/프롬프트.md",
     "2027 대비 정리/감리/감리 시작.md",
+    "2027 대비 정리/감리/Pasted image 20260618110959.png",
+    "2027 대비 정리/감리/Pasted image 20260618110948.png",
+    "2027 대비 정리/감리/Pasted image 20260618110941.png",
+    "2027 대비 정리/감리/Pasted image 20260618110940.png",
+    "2027 대비 정리/감리/Pasted image 20260618110925.png",
     "2027 대비 정리/보안/보안시작.md",
+    "01.최종정리/마지막 압축 노트.md",
     "인덱스 암기노트/감리사_23-24_정리노트_통합본_원문보존.md",
     "단권화/클로드/감리사_06_보안.md",
-    "01.최종정리/마지막 압축 노트.md",
     "감리사_초압축_단권화본.md",
-    "2027 대비 정리/보안/무제.md",
     "돌빡.md",
     "01.최종정리/감리사_통합_암기노트_정제본.md",
     "01.최종정리/오답 정리(보안).md",
@@ -316,13 +320,7 @@
     "01.최종정리/오답 정리(사업관리 감리).md",
     "2부.md",
     "단권화/files/01_감리및사업관리.md",
-    "README.md",
     "2027 대비 정리/감리/Pasted image 20260615141819.png",
-    "2027 대비 정리/보안/Pasted image 20260615113631.png",
-    "2027 대비 정리/보안/Pasted image 20260615113625.png",
-    "2027 대비 정리/보안/Pasted image 20260615102434.png",
-    "2027 대비 정리/보안/Pasted image 20260615101711.png",
-    "2027 대비 정리/보안/Pasted image 20260615094741.png",
     "2027 대비 정리/보안",
     "2027 대비 정리/감리",
     "2027 대비 정리",

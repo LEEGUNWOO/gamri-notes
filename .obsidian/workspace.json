@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2027 대비 정리/감리/감리 시작.md",
+                "file": "2027 대비 정리/시구/시구 시작.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "감리 시작"
+              "title": "시구 시작"
             }
           },
           {
@@ -119,8 +119,7 @@
               "title": "마지막 압축 노트"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +172,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -285,11 +283,13 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "a6749ed822a94c86",
+  "active": "49f21046ec746d47",
   "lastOpenFiles": [
-    "2027 대비 정리/보안/프롬프트.md",
-    "2027 대비 정리/보안/보안시작.md",
     "2027 대비 정리/감리/감리 시작.md",
+    "2027 대비 정리/시구/시구 시작.md",
+    "2027 대비 정리/시구",
+    "2027 대비 정리/보안/보안시작.md",
+    "2027 대비 정리/보안/프롬프트.md",
     "2027 대비 정리/감리/Pasted image 20260618110959.png",
     "2027 대비 정리/감리/Pasted image 20260618110948.png",
     "2027 대비 정리/감리/Pasted image 20260618110941.png",
@@ -331,7 +331,6 @@
     "단권화/클로드.zip",
     "단권화/개별",
     "단권화/files (1).zip",
-    "단권화/files",
     "무제.canvas",
     "무제 1.canvas"
   ]

@@ -9,5 +9,6 @@
     "downscalePercent": 100
   },
   "livePreview": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showLineNumber": true
 }

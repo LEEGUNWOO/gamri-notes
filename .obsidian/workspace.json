@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"모순성\"",
+                "query": "\"Ti\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -245,9 +245,9 @@
   },
   "active": "bc2861af3ce1c22e",
   "lastOpenFiles": [
-    "단권화/클로드/감리사_통합_암기노트_정제본.md",
     "01.최종정리/오답정리 (데이터베이스).md",
     "01.최종정리/마지막 압축 노트.md",
+    "단권화/클로드/감리사_통합_암기노트_정제본.md",
     "단권화/클로드/감리사_04_데이터베이스.md",
     "인덱스 암기노트/데이터베이스_정리본_구조화.md",
     "인덱스 암기노트/INDEX_감리사_정리노트_구조화.md",

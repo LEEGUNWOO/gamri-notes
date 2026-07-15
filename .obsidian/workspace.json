@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"f1\"",
+                "query": "\"ORDBMS\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -243,7 +243,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "bc2861af3ce1c22e",
+  "active": "d547cd6d0a9e1ab8",
   "lastOpenFiles": [
     "인덱스 암기노트/데이터베이스_정리본_구조화.md",
     "단권화/개별/감리사_04_데이터베이스.md",

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.최종정리/마지막 압축 노트.md",
+                "file": "01.최종정리/암기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "마지막 압축 노트"
+              "title": "암기"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"IOPS\"",
+                "query": "\"피딩\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -245,11 +245,12 @@
   },
   "active": "bc2861af3ce1c22e",
   "lastOpenFiles": [
+    "2부.md",
+    "01.최종정리/마지막 압축 노트.md",
     "단권화/개별/감리사_05_시스템구조.md",
     "단권화/클로드/감리사_05_시스템구조.md",
     "단권화/files/04_시스템구조.md",
     "01.최종정리/시험정리.md",
-    "01.최종정리/마지막 압축 노트.md",
     "노션/44eb7bf6-5a7a-407a-b095-7e94b4ebfe04_ExportBlock-5d6f3844-58c4-46ea-8767-c574fc18ee6b/ExportBlock-5d6f3844-58c4-46ea-8767-c574fc18ee6b-Part-1/가치 전달 시스템 cfc944154a1e496199a2c86ee6a39e8f.md",
     "노션/44eb7bf6-5a7a-407a-b095-7e94b4ebfe04_ExportBlock-5d6f3844-58c4-46ea-8767-c574fc18ee6b/ExportBlock-5d6f3844-58c4-46ea-8767-c574fc18ee6b-Part-1/46b39bb7-a3ab-4b7f-b490-fcbc35fb3fe5.png",
     "노션/44eb7bf6-5a7a-407a-b095-7e94b4ebfe04_ExportBlock-5d6f3844-58c4-46ea-8767-c574fc18ee6b/ExportBlock-5d6f3844-58c4-46ea-8767-c574fc18ee6b-Part-1/1504af2d-9c62-4351-bc11-94a0bdd55cf0.png",
@@ -277,7 +278,6 @@
     "2027 대비 정리/보안/07 정보보호 관리체계 및 제도/05 4. 개인정보 보호법.md",
     "2027 대비 정리/보안/07 정보보호 관리체계 및 제도/07 6. 개인정보 비식별조치.md",
     "2027 대비 정리/감리/03 국가를 당사자로 하는 계약에 관한 법률/01 (계약예규) 용역계약일반조건.md",
-    "2027 대비 정리/보안/04 사이버공격 및 바이러스/10 10. 운영체제 보안.md",
     "2027 대비 정리/보안/01 정보보호개론",
     "2027 대비 정리/보안/02 암호학",
     "2027 대비 정리/보안/04 사이버공격 및 바이러스",
